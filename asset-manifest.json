@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/empirestatebuildinglights-react/static/css/main.6264d376.css",
-    "main.js": "/empirestatebuildinglights-react/static/js/main.7c3cffcf.js",
+    "main.css": "/empirestatebuildinglights-react/static/css/main.a1ec75dc.css",
+    "main.js": "/empirestatebuildinglights-react/static/js/main.ad52a4bb.js",
     "index.html": "/empirestatebuildinglights-react/index.html",
-    "main.6264d376.css.map": "/empirestatebuildinglights-react/static/css/main.6264d376.css.map",
-    "main.7c3cffcf.js.map": "/empirestatebuildinglights-react/static/js/main.7c3cffcf.js.map"
+    "main.a1ec75dc.css.map": "/empirestatebuildinglights-react/static/css/main.a1ec75dc.css.map",
+    "main.ad52a4bb.js.map": "/empirestatebuildinglights-react/static/js/main.ad52a4bb.js.map"
   },
   "entrypoints": [
-    "static/css/main.6264d376.css",
-    "static/js/main.7c3cffcf.js"
+    "static/css/main.a1ec75dc.css",
+    "static/js/main.ad52a4bb.js"
   ]
 }
