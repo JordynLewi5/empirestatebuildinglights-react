@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/empirestatebuildingcolors-react/static/css/main.9b660dd6.css",
+    "main.js": "/empirestatebuildingcolors-react/static/js/main.efcaf6ac.js",
+    "index.html": "/empirestatebuildingcolors-react/index.html",
+    "main.9b660dd6.css.map": "/empirestatebuildingcolors-react/static/css/main.9b660dd6.css.map",
+    "main.efcaf6ac.js.map": "/empirestatebuildingcolors-react/static/js/main.efcaf6ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b660dd6.css",
+    "static/js/main.efcaf6ac.js"
+  ]
+}
